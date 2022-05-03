@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "P001",
+      "title": "React Course",
+      "body": "New Course Launch"
+    },
+    {
+      "title": "Angular 101",
+      "body": "Angular Course for Beginners",
+      "id": "wa0JkV0"
+    }
+  ]
+}
